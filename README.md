@@ -1,172 +1,160 @@
 <h1 align="center">Hi 👋, I'm Mohit Jat</h1>
 
-<h3 align="center">Java Full Stack Developer | Spring Boot | React | REST APIs</h3>
+<h3 align="center">
+Java Full Stack Developer | Spring Boot | REST APIs | React | MySQL
+</h3>
 
 <p align="center">
-  Passionate about building secure, scalable and real-world full stack applications.
+MCA Graduate passionate about building secure, scalable and user-friendly web applications.
 </p>
 
 ---
 
-# 💫 About Me
+## 👨‍💻 About Me
 
-I'm a **Java Full Stack Developer and MCA Graduate** passionate about building scalable and secure web applications.
-
-I enjoy developing end-to-end projects using **Java, Spring Boot, Spring Security, REST APIs, Hibernate/JPA, MySQL and React**.
-
-I continuously improve my development and problem-solving skills by building real-world projects and practicing **Data Structures & Algorithms**.
-
-- 🔭 Building Java Full Stack applications
-- 🌱 Improving Spring Boot, Spring Security & React
-- 🔐 Working with JWT Authentication & Role-Based Security
-- 💻 Interested in Backend & Full Stack Development
-- 🎯 Open to Java Developer / Java Full Stack Developer opportunities
+- 🎓 MCA Graduate
+- 💻 Java Full Stack Developer
+- 🚀 Building applications using Java, Spring Boot, Hibernate/JPA and React
+- 🔐 Learning and implementing Spring Security & JWT Authentication
+- 🌐 Experienced with REST APIs, JSP, Servlets and JDBC
+- 🗄️ Working with MySQL and PostgreSQL
+- 🧠 Practicing Data Structures & Algorithms in Java
 - 📍 Indore, India
+- 🎯 Open to Java Developer / Java Full Stack Developer opportunities
 
 ---
 
-# 🌐 Connect With Me
+## 🛠️ Tech Stack
 
-<p align="left">
+### Backend
+`Java` `Spring Boot` `Spring Security` `Hibernate` `Spring Data JPA` `REST API` `JSP` `Servlet`
 
-<a href="https://www.linkedin.com/in/mohit-jat-aa270a3b1/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+### Frontend
+`HTML` `CSS` `JavaScript` `React`
 
-<a href="mailto:jatmohit142@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+### Database
+`MySQL` `PostgreSQL`
 
-<a href="https://github.com/mohit-jat">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-# 💻 Tech Stack
-
-### 👨‍💻 Programming
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,js" />
-</p>
-
-### 🚀 Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=spring,maven" />
-</p>
-
-`Spring Boot` • `Spring Security` • `REST APIs` • `Hibernate` • `JPA` • `JDBC` • `Servlet` • `JSP`
-
-### 🎨 Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react" />
-</p>
-
-### 🗄️ Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres" />
-</p>
-
-### 🛠️ Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,eclipse" />
-</p>
+### Tools
+`Git` `GitHub` `Postman` `Maven` `Docker` `Eclipse` `VS Code`
 
 ---
 
 # 🚀 Featured Projects
 
-### 🛒 Multi-Vendor E-Commerce Backend
+## 🛒 Multi-Vendor E-Commerce Backend
 
-**Spring Boot • Hibernate • JPA • REST API • MySQL • Docker**
+**Tech:** Spring Boot, Hibernate, Spring Data JPA, MySQL, REST APIs
 
-A scalable E-Commerce backend application with product, vendor, customer, cart and order management.
+A scalable backend application for an E-Commerce platform.
 
-🔗 [View Project](https://github.com/mohit-jat/Backend_Ecommerce)
+### Key Features
+- Product, Vendor & Customer Management
+- Cart & Order Management
+- RESTful CRUD APIs
+- Pagination, Sorting & Search
+- DTO Pattern
+- Soft Delete
+- Caching
+- Global Exception Handling
+- Docker Support
 
----
-
-### 🛍️ E-Commerce Web Application
-
-**Java • JSP • Servlet • JDBC • MySQL**
-
-Full-stack E-Commerce application with authentication, cart, wishlist, orders, admin dashboard and product management.
-
-🔗 [View Project](https://github.com/mohit-jat/E-Com-Store)
-
----
-
-### 🔐 Spring Security Application
-
-**Spring Boot • Spring Security • JWT • MySQL • Cloudinary**
-
-Secure backend application featuring JWT authentication, role-based authorization and product image management.
-
-🔗 [View Project](https://github.com/mohit-jat/spring_security)
+🔗 [View Repository](https://github.com/mohit-jat/Backend_Ecommerce)
 
 ---
 
-### 💼 Job Portal & HR Management System
+## 🛍️ E-Commerce Web Application
 
-**Java • JSP • Servlet • JDBC • MySQL**
+**Tech:** Java, JSP, Servlets, JDBC, MySQL
 
-Recruitment platform with job posting, candidate management, job applications and HR dashboard.
+Full-stack E-Commerce application with user and admin functionality.
 
-🔗 [View Project](https://github.com/mohit-jat/JobPortalHRSystem)
+### Key Features
+- User Registration & Login
+- Product Management
+- Shopping Cart
+- Wishlist
+- Order Management
+- Category Filter & Search
+- Stock Management
+- Admin Dashboard
+- Image Upload
+- Sales Analytics
+
+🔗 [View Repository](https://github.com/mohit-jat/E-Com-Store)
 
 ---
 
-# 🏆 GitHub Trophies
+## 🔐 Spring Security Project
+
+**Tech:** Spring Boot, Spring Security, JWT, MySQL, Cloudinary
+
+Backend application focused on authentication, authorization and secure APIs.
+
+### Key Features
+- User Registration & Login
+- JWT Authentication
+- Role-Based Authorization
+- USER / ADMIN Roles
+- Secured REST APIs
+- Product Management
+- Image Upload using Cloudinary
+
+🔗 [View Repository](https://github.com/mohit-jat/spring_security)
+
+---
+
+## 💼 Job Portal & HR Management System
+
+**Tech:** Java, JSP, Servlets, JDBC, MySQL
+
+Web application designed for managing jobs, candidates and recruitment.
+
+### Key Features
+- HR Dashboard
+- Job Posting
+- Candidate Management
+- Job Applications
+- Application Status Tracking
+- Job Search
+- User Profile Management
+- Role-Based Access
+
+🔗 [View Repository](https://github.com/mohit-jat/JobPortalHRSystem)
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mohit-jat&theme=flat&no-frame=true&margin-w=10"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mohit-jat&show_icons=true&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohit-jat&layout=compact&hide_border=true" />
 </p>
 
 ---
 
-# 📈 GitHub Activity Graph
+## 📚 Currently Improving
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohit-jat&theme=github-compact&hide_border=true"/>
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=mohit-jat&show_icons=true&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohit-jat&layout=compact&hide_border=true"/>
-
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=mohit-jat&hide_border=true"/>
-</p>
+- Spring Boot
+- Spring Security
+- JWT Authentication
+- React
+- Data Structures & Algorithms
+- Backend Development
 
 ---
 
-# 🐍 Contribution Snake
+## 🤝 Connect With Me
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/mohit-jat/mohit-jat/output/github-contribution-grid-snake.svg"/>
-</p>
+- 💼 LinkedIn: [Mohit Jat](https://www.linkedin.com/in/mohit-jat-aa270a3b1/)
+- 💻 GitHub: [mohit-jat](https://github.com/mohit-jat)
+- 📧 Email: jatmohit142@gmail.com
 
 ---
 
 <p align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-**Open to Java Developer / Java Full Stack Developer opportunities**
-
+⭐ Open to Java Developer / Java Full Stack Developer opportunities
 </p>
