@@ -5,7 +5,211 @@
 <p align="center">
 MCA Graduate passionate about building secure, scalable and real-world web applications.
 </p>
+<h1 align="center">Hi 👋, I'm Mohit Jat</h1>
 
+<h3 align="center">Java Full Stack Developer | Generative AI & Agentic Systems | Spring Boot | React</h3>
+
+<p align="center">
+MCA Graduate passionate about building secure, scalable enterprise backends and cutting-edge Multimodal Agentic AI applications.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohit-jat-aa270a3b1/">
+    <img src="https://img.shields.io/badge/LinkedIn-Mohit%20Jat-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  <a href="mailto:jatmohit142@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  
+  <a href="https://github.com/mohit-jat">
+    <img src="https://img.shields.io/badge/GitHub-mohit--jat-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+### 🧠 Generative AI & Agentic Systems
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi"/>
+</p>
+
+`LangGraph` `LangChain` `Llama 3.2 Vision` `OpenAI Whisper` `RAG (Retrieval-Augmented Generation)` `Multi-Agent Architecture` `Human-in-the-Loop` `Vector Embeddings` `Gradio UI`
+
+### 👨💻 Languages & Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,maven"/>
+</p>
+
+`Java` `Python` `Spring Boot` `Spring Security` `Spring Data JPA` `Hibernate` `FastAPI` `REST APIs` `JDBC` `Servlet` `JSP`
+
+### 🎨 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react"/>
+</p>
+
+`React` `Gradio` `JavaScript` `HTML5` `CSS3`
+
+### 🗄️ Databases & Vector Stores
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite"/>
+</p>
+
+`ChromaDB (Vector Database)` `MySQL` `PostgreSQL` `SQLite`
+
+### 🔧 Cloud, Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman,vscode,eclipse"/>
+</p>
+
+`AWS` `Docker` `Git` `GitHub` `Postman` `VS Code` `Eclipse`
+
+---
+
+## 👨💻 About Me
+
+- 🎓 MCA Graduate
+- 💻 Java Full Stack & Generative AI Developer
+- 🚀 Building enterprise systems using **Java, Spring Boot, Hibernate/JPA, React, and Python**
+- 🧠 Developing Agentic AI systems using **LangGraph, LangChain, ChromaDB, and OpenAI/Llama models**
+- 🔐 Strong expertise in **Spring Security, JWT Authentication & Role-Based Access Control (RBAC)**
+- 🌐 Experienced with **RESTful APIs, Microservices architecture, and RAG pipelines**
+- 🗄️ Database proficiency in **MySQL, PostgreSQL, and ChromaDB (Vector Search)**
+- 📍 Indore, India
+- 🎯 Open to **Java Full Stack Developer / Backend Developer / AI Engineer** opportunities
+
+---
+
+# 🚀 Featured Projects
+
+## 📌 🧠 NeuroPilot-AI — Multimodal Agentic AI Assistant
+
+**Tech Stack:** `Python` `FastAPI` `LangGraph` `LangChain` `ChromaDB` `OpenAI Whisper` `Llama 3.2 Vision` `SQLite` `Gradio` `Docker`
+
+An end-to-end, production-ready Multimodal Agentic AI Assistant featuring dynamic multi-agent orchestration, Human-in-the-Loop tool verification, document semantic search, and stateful multi-session memory.
+
+### ✨ Key Features
+- **LangGraph Multi-Agent Orchestration**: Supervisor agent dynamically routing tasks across Text, Vision, Audio, and RAG agents.
+- **Human-in-the-Loop Safety**: Intercepts automated web searches (DuckDuckGo) for explicit user approval before execution.
+- **Vision & Audio Intelligence**: Image understanding with Llama 3.2 Vision and speech-to-text with OpenAI Whisper.
+- **Document Intelligence (RAG)**: Chunks, embeds, and indexes PDFs/TXTs with ChromaDB and SHA-256 deduplication.
+- **ChatGPT-Style UI**: Sleek dark interface in Gradio with dynamic multi-session sidebar and single-chat deletion.
+- **Dockerized**: Containerized deployment with minimal Docker footprint.
+
+🔗 **[View Repository](https://github.com/mohit-jat/NeuroPilot-AI)**
+
+---
+
+## 🛒 Multi-Vendor E-Commerce Backend
+
+**Tech Stack:** `Spring Boot` `Spring Data JPA` `Hibernate` `REST API` `MySQL` `Docker`
+
+A scalable backend application designed for a multi-vendor E-Commerce platform.
+
+### ✨ Key Features
+- Product, Vendor & Customer Management
+- Shopping Cart & Order Management
+- RESTful CRUD APIs
+- Pagination, Sorting & Search
+- DTO Pattern
+- Soft Delete
+- Spring Cache
+- Global Exception Handling
+- Docker Support
+
+🔗 **[View Repository](https://github.com/mohit-jat/Backend_Ecommerce)**
+
+---
+
+## 🔐 Spring Security Application
+
+**Tech Stack:** `Spring Boot` `Spring Security` `JWT` `MySQL` `Cloudinary`
+
+A secure backend application focused on authentication, authorization and protected REST APIs.
+
+### ✨ Key Features
+- User Registration & Login
+- JWT Authentication
+- Role-Based Authorization
+- USER / ADMIN Roles
+- Secured REST APIs
+- Product Management
+- Cloudinary Image Upload
+- Protected Admin Operations
+
+🔗 **[View Repository](https://github.com/mohit-jat/spring_security)**
+
+---
+
+## 🛍️ E-Commerce Web Application
+
+**Tech Stack:** `Java` `JSP` `Servlet` `JDBC` `MySQL`
+
+A complete E-Commerce web application with customer and admin functionality.
+
+### ✨ Key Features
+- User Registration & Login
+- Product Management
+- Shopping Cart & Wishlist
+- Order Management
+- Category Filter & Search
+- Stock Management & Admin Dashboard
+- Sales Analytics
+
+🔗 **[View Repository](https://github.com/mohit-jat/E-Com-Store)**
+
+---
+
+## 💼 Job Portal & HR Management System
+
+**Tech Stack:** `Java` `JSP` `Servlet` `JDBC` `MySQL`
+
+A recruitment management application for managing jobs, candidates and applications.
+
+### ✨ Key Features
+- HR Dashboard
+- Job Posting & Candidate Management
+- Job Applications & Status Tracking
+- User Profile Management & Role-Based Access
+
+🔗 **[View Repository](https://github.com/mohit-jat/JobPortalHRSystem)**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mohit-jat&show_icons=true&hide_border=true&rank_icon=github" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohit-jat&layout=compact&hide_border=true" />
+</p>
+
+---
+
+## 📚 Currently Improving
+
+- Advanced Spring Boot & Microservices
+- Agentic AI Systems & LLM Workflows (LangGraph)
+- Spring Security & JWT Architecture
+- Data Structures & Algorithms
+- System Design & Scalability
+
+---
+
+<h3 align="center">💼 Open to Java Developer / Full Stack Developer / AI Engineer Opportunities</h3>
+
+<p align="center">
+  <b>Thanks for visiting my profile! 🚀</b>
+</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/mohit-jat-aa270a3b1/">
     <img src="https://img.shields.io/badge/LinkedIn-Mohit%20Jat-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
